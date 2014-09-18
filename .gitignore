@@ -56,5 +56,6 @@ qrc_*
 [Dd]ebug*/
 [Rr]elease/
 *.class
+bin/
 build/
 .gradle/
